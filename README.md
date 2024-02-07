@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a full stack developer, but I love frontend. I continue to seek to learn and practice more and more.
+I'm currently a full stack developer, but I stil love frontend. I continue to seek to learn and practice more and more.
 
 Currently in romance with Angular ❤
 
